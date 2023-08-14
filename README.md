@@ -1,5 +1,6 @@
 # CosmosDB_with_Csharp-sample2
 
+## Source code
 ```csharp
 using System;
 using System.IO;
@@ -88,6 +89,18 @@ namespace CosmosDBApp
 }
 ```
 
+## appsettings.json
+
+```json
+{
+  "CosmosSettings": {
+    "Endpoint": "https://luiscococosmosdb.documents.azure.com:443/",
+    "Key": "2QSCj43kWVA4tTtHCF5ZZvQ9Jth1J32QYl5pmEkeZtjayl0c0cN7zpND572AHGeO1vXsfW4NcVACACDbRGt1ng==",
+    "DatabaseId": "cosmicworks",
+    "ContainerId": "products"
+  }
+}
+```
 
 
 
