@@ -102,8 +102,11 @@ namespace CosmosDBApp
 }
 ```
 
+## Azure CosmosDB keys
 
+![image](https://github.com/luiscoco/CosmosDB_with_Csharp-sample2/assets/32194879/fb108354-00e4-4620-8341-702412fa1834)
 
+ 
 
 
 
