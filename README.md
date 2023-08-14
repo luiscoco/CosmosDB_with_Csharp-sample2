@@ -94,8 +94,8 @@ namespace CosmosDBApp
 ```json
 {
   "CosmosSettings": {
-    "Endpoint": "https://luiscococosmosdb.documents.azure.com:443/",
-    "Key": "2QSCj43kWVA4tTtHCF5ZZvQ9Jth1J32QYl5pmEkeZtjayl0c0cN7zpND572AHGeO1vXsfW4NcVACACDbRGt1ng==",
+    "Endpoint": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "Key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "DatabaseId": "cosmicworks",
     "ContainerId": "products"
   }
